@@ -1,6 +1,6 @@
 {
   "name": "react-hidden",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component to conditionally render children based on matching breakpoints or custom media queries with plenty on options.",
   "main": "dist/hidden.js",
   "types": "dist/hidden.d.ts",
@@ -28,9 +28,9 @@
   "author": "x <x@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/your-username/react-hidden/issues"
+    "url": "https://github.com/globalkonvict/react-hidden/issues"
   },
-  "homepage": "https://github.com/your-username/react-hidden#readme",
+  "homepage": "https://github.com/globalkonvict/react-hidden#readme",
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
