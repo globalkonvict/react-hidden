@@ -1,0 +1,69 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+/dist/
+.parcel-cache
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE and editor directories
+/.vscode/
+/.idea/
+*.swp
+*.swo
+*~
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Debug log from TypeScript
+*.log
+
+# Coverage directory used by tools like Istanbul
+/coverage/
+
+# nyc test coverage
+.nyc_output
+
+# Jest test coverage
+/coverage/
+
+# Next.js build output
+/.next/
+/out/
+
+# Gatsby files
+.cache/
+/public
+
+# Mac files
+.DS_Store
+
+# Yarn PnP
+.pnp/
+.pnp.js
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env*
+!.env.example
